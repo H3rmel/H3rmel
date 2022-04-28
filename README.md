@@ -16,65 +16,48 @@ discovering HTML an CSS and falling in love with front-end development and UX/UI
 
 ### My skills 🛠
 
-<div>
-
-<div>
-
 #### Front-end skills
 
-  <p align="left">
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  </p>
+<div align="left">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 </div>
-
-<div>
 
 #### Back-end skills
 
-  <p align="left">
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img width="48" height="48" src="https://cdn.cdnlogo.com/logos/b/67/blazor.svg" />
-  </p>
+<div align="left">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img width="48" height="48" src="https://cdn.cdnlogo.com/logos/b/67/blazor.svg" />
 </div>
-
-<div>
 
 #### General skills/tools
 
-  <p align="left">
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  </p>
+<div align="left">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
-
-<div>
 
 #### UX/UI Design skills/tools
 
-  <p align="left">
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  </p>
-</div>
+<div align="left">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
 ### My Github Stats
 
-<div align="left">
-  <a href="http://www.github.com/IsaacHermel"><img src="https://github-readme-stats.vercel.app/api?username=IsaacHermel&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&show_icons=true" alt="IsaacHermel's GitHub stats" /></a>
-  <a href="http://www.github.com/IsaacHermel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacHermel&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <a href="https://github.com/IsaacHermel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacHermel&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+<a href="http://www.github.com/IsaacHermel"><img src="https://github-readme-stats.vercel.app/api?username=IsaacHermel&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&show_icons=true" alt="IsaacHermel's GitHub stats" /></a>
+<a href="http://www.github.com/IsaacHermel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacHermel&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/IsaacHermel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacHermel&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### If you want to contact me, here are some ways 📞
 
