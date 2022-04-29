@@ -53,7 +53,7 @@ discovering HTML an CSS and falling in love with front-end development and UX/UI
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
-### My Github Stats
+### My Github Stats 📊
 
 <div>
   <a href="http://www.github.com/IsaacHermel"><img src="https://github-readme-stats.vercel.app/api?username=IsaacHermel&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&show_icons=true" alt="IsaacHermel's GitHub stats" /></a>
