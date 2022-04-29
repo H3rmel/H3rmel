@@ -7,7 +7,7 @@ discovering HTML an CSS and falling in love with front-end development and UX/UI
 
 ### More informations about me 💭
 
-- 🌎 I'm currently based in Gravataí - RS / Brazi;
+- 🌎 I'm currently based in Gravataí - RS / Brazil;
 - 💻 I have my own portfolio, if you wanna see, just access [isaachermel.com.br](https://isaachermel.com.br)
 - 👩‍💻 I'm currently working at Umbler as a front-end developer, using tecnhologies like C# and Blazor
 - 📚 I'm currently studying C#, Blazor and UX/UI concepts
@@ -24,7 +24,7 @@ discovering HTML an CSS and falling in love with front-end development and UX/UI
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 
 #### Back-end skills
