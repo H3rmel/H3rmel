@@ -1,6 +1,6 @@
 # Hello! 👋 My name is Isaac Hermel
 
-### Front-end Developer (NextJS/Blazor)
+### Front-end Developer (ReactJS/Blazor)
 
 I've been learning to code since I was 14 years old, when I entered in a technique school, starting with C++, but after one year
 discovering HTML an CSS and falling in love with front-end development and UX/UI Design, since then, studying this 2 areas.
